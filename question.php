@@ -43,7 +43,7 @@
     <div class="container">
         <div class="p-5 bg-light rounded-3 shadow-lg my-4">
             <div class="container-fluid py-5">
-                <h1 class="display-5 fw-bold">Welcome to <?php echo $qtitle; ?> Forums</h1>
+                <h1 class="display-5 fw-bold"><?php echo $qtitle; ?></h1>
                 <p class="col-md-8 fs-4"><?php echo $qdesc; ?></p>
                 <hr>
                 <p>Keep it friendly / Be courteous and respectful / Appreciate that others may have an opinion different
